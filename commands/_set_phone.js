@@ -10,4 +10,4 @@
 CMD*/
 
 User.setProperty("phone", data.message, "string");
-Bot.runCommand('/set_adress');
+Bot.runCommand('/profile');
