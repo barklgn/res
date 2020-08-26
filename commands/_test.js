@@ -1,5 +1,5 @@
 /*CMD
-  command: /test
+  command: /mzg
   help: 
   need_reply: 
   auto_retry_time: 
