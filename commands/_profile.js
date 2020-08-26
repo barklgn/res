@@ -15,3 +15,4 @@
   aliases: 
 CMD*/
 
+Bot.runCommand('/set_phone')
