@@ -4,7 +4,7 @@
   need_reply: true
   auto_retry_time: 
   folder: 
-  answer: 🧔የአባትዎን ስም ያስገቡ, <name>?
+  answer: 👴የአባትዎን ስም ያስገቡ, <name>?
   keyboard: 
   aliases: 
 CMD*/
